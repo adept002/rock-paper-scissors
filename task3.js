@@ -1,5 +1,5 @@
-const crypto = require('crypto');
 const readline = require('readline');
+const crypto = require('crypto');
 const Table = require('cli-table3');
 
 // Класс для генерации ключа
